@@ -11,3 +11,8 @@ Current features:
 - Infinite pistol ammo.
 - Infinite grenade ammo.
 - Grenade "no reload / wait time".
+
+
+
+
+Credits to https://guidedhacking.com and the creators of ReClass.NET.
