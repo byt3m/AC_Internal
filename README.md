@@ -15,4 +15,13 @@ Current features:
 ![alt text](https://raw.githubusercontent.com/byt3m/AC_Internal/master/ss1.jpg)
 ![alt text](https://raw.githubusercontent.com/byt3m/AC_Internal/master/ss0.jpg)
 
+
+How to use:
+1. Compile using your favourite compiler on release and x86.
+2. Inject using your favourite injector (I strongly recommend this one https://guidedhacking.com/resources/guided-hacking-dll-injector.4/).
+3. Enjoy.
+
+
+Note: currently the hack has no menu or keys to enable/disable features so every feature is enabled by default.
+
 Credits to https://guidedhacking.com and the creators of ReClass.NET.
