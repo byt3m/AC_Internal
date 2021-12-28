@@ -25,3 +25,5 @@ How to use:
 Note: currently the hack has no menu or keys to enable/disable features so every feature is enabled by default.
 
 Credits to https://guidedhacking.com and the creators of ReClass.NET.
+
+This repository is licensed under the GNU General Public License v3.0.
